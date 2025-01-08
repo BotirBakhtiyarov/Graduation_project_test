@@ -1,0 +1,8 @@
+streamlit
+openai
+sqlalchemy
+pandas
+PyPDF2
+nltk
+uuid
+python-dotenv
