@@ -156,32 +156,6 @@ You can deploy this application using various platforms. Below is an example of 
 - **AWS/GCP/Azure:** For scalable and robust deployments with cloud infrastructure.
 - **Others:** Any platform that supports Docker can be used for deployment.
 
-## Contributing
-
-Contributions are welcome! Please follow these steps to contribute:
-
-1. **Fork the Repository.**
-2. **Create a New Branch:**
-
-   ```bash
-   git checkout -b feature/YourFeature
-   ```
-
-3. **Commit Your Changes:**
-
-   ```bash
-   git commit -m "Add your message here"
-   ```
-
-4. **Push to Your Fork:**
-
-   ```bash
-   git push origin feature/YourFeature
-   ```
-
-5. **Open a Pull Request:** Describe your changes and submit for review.
-
-
 ## Contact
 
 For any inquiries or support, please contact:
