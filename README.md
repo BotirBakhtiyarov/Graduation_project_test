@@ -37,7 +37,6 @@ ai_assistant_scientific_literature/
 ├── utils/
 │   ├── ai_functions.py
 │   ├── extraction.py
-│   └── summarization.py
 └── data/
     └── (uploaded PDFs are stored here)
 ```
